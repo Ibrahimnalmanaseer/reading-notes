@@ -57,3 +57,9 @@ We use props in React to pass data from one component to another (from a parent 
 ### Flow Data :
 
 ![Data Flow](https://miro.medium.com/max/1400/1*bsS8ETUQqgBpAoT2D6tjmw.png)
+
+
+---
+---
+
+## Things I want to know more about :
