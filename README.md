@@ -10,5 +10,5 @@
   3. [Passing Functions as Props](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Passing%20Functions%20as%20Props)
   
   
-  https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Passing%20Functions%20as%20Props
+ 
 - ## Code 401 - Advanced Software Development:
