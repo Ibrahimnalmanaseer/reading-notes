@@ -1,1 +1,39 @@
+### Passing Functions as Props
 
+---
+What does .map() return?
+return array or object  values, and index of array
+
+If I want to loop through an array and display each value in JSX, how do I do that in React?
+ by using map and returnJSX with value inside it .
+
+
+Each list item needs a unique Key .
+
+What is the purpose of a key?
+to use a string that uniquely identifies as alist item 
+---
+
+---
+What is the spread operator?
+to combine and copy array or object to another array or objects.
+
+List 4 things that the spread operator can do.
+ Copying an array or object , Combine it , Using an array as arguments,Adding an item to a list.
+
+Give an example of using the spread operator to combine two arrays.
+const numbersOne = [1, 2, 3];
+
+*const newArr = [...numbersOne];
+Give an example of using the spread operator to add a new item to an array.
+var oldArray = [{'value': '1', 'label': 'a'}, {'value': '2', 'label': 'b'}]
+var newObj = {'value': 'all', 'label': 'all'}
+var result = [newObj, ...oldArray]*
+
+
+
+Give an example of using the spread operator to combine two objects into one
+
+*const numbersOne = [1, 2, 3];
+const numbersTwo = [4, 5, 6];
+const numbersCombined = [...numbersOne, ...numbersTwo];*
