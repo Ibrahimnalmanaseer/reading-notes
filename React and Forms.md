@@ -24,4 +24,4 @@ to short our code and to run faster.
 
 ### Rewrite the following statement using a ternary statement:
 
-const adults = age >= 21 ? "big boy" : " still young";
+ x === y ? console.log(true) : console.log(false);
