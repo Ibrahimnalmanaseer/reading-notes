@@ -20,3 +20,19 @@
       
 ### How can you identify where state needs to live?
 
+    we can identify the state need to live by determine the behave of our app .
+    
+    
+### What is a “higher-order function”?
+
+ a function can take one or more functions as an argument,  returning a function as the result
+
+
+### Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+
+     to compare the function result with another function to return True if the second function than the first function .
+     
+
+### Explain how either map or reduce operates, with regards to higher-order functions.
+
+
