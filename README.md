@@ -9,6 +9,7 @@
   2. [State and Props](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/State%20and%20Props)
   3. [Passing Functions as Props](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Passing%20Functions%20as%20Props)
   4. [React and Forms](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/React%20and%20Forms.md)
+  5. [Thinking in React](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Putting%20it%20all%20together.md)
   
   
  
