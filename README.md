@@ -11,6 +11,7 @@
   4. [React and Forms](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/React%20and%20Forms.md)
   5. [Thinking in React](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Putting%20it%20all%20together.md)
   6. [Node.js](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/NODE.JS.md)
+  7. [APIs](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/APIs.md)
   
   
  
