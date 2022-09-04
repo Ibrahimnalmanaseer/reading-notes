@@ -37,15 +37,16 @@ the response now inside another URI.
 
  method inbuilt in express to recognize the incoming Request Object as a JSON Object
 
-What does the /:id mean in a route?
+## What does the /:id mean in a route?
    assign proprtey and can be reached req.params object
-What is the difference between PUT and PATCH?
+## What is the difference between PUT and PATCH?
   put used for update the entire data , but th epatch update acertain data .
 
-How do you make a default value in a schema?
+## How do you make a default value in a schema?
 
-What does a 500 error status code mean?
+## What does a 500 error status code mean?
+The server has encountered a situation
 
-What is the difference between a status 200 and a status 201?
-
+## What is the difference between a status 200 and a status 201?
+200 is succeded request , but 201 it mean the update is suceeded
 
