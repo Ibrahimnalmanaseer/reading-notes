@@ -14,6 +14,6 @@
   7. [APIs](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/APIs.md)
   8. [Functional Programming & Modules](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/FunctionalProgramming&modules.md)
   9. [Mongo DB](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/mongodb.md)
-  
+  10. [CRUD](https://github.com/LTUC/amman-301d35/blob/main/class-13/DISCUSSION.md)
  
 - ## Code 401 - Advanced Software Development:
