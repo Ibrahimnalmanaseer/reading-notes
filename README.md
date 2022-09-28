@@ -1,5 +1,5 @@
 # Reading Notes
-*Track my observations and questions during the JS course*
+*Track my observations and questions during the Python course*
 
 ---
 - ## Code 102 - Intro to Software Development:
