@@ -13,7 +13,7 @@ O(n) function is linear, which means that as our input grows (from ten numbers, 
 
 Python is really simple language , mechanisim is very simple.
 
-Python facts :
+#### Python facts :
 - Names refer to values: assignemnt makes names refer to vlue .
 - Many names can refer to one value: exp (x = 5, y=x).
 -  Names reassigned independantly:
