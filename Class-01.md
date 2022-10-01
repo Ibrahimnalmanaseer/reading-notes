@@ -32,6 +32,7 @@ Python facts :
 ![image](https://user-images.githubusercontent.com/62019258/193426376-3f3bcb81-fb8f-437c-8a38-3b8bed014606.png)
 
  - Immutable values can't alias :
+
 ![image](https://user-images.githubusercontent.com/62019258/193426404-56cb09a4-75b7-45ef-8c4f-03ac3ce1c59f.png)
 
  
