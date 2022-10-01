@@ -7,8 +7,9 @@ by checking how much time takes to execute the algorithm and how much space in m
 An O(1) function takes constant time, which is to say that it doesn’t matter how many elements we have, or how huge our input is, it’ll always take the same amount of time and memory to run our algorithm
 O(n) function is linear, which means that as our input grows (from ten numbers, to ten thousand, to ten million), the space and time that we need to run that algorithm grows linearly.
 
+---
 
-### Names and Values in Python
+### Names and Values in Python:
 
 Python is really simple language , mechanisim is very simple.
 
@@ -19,7 +20,7 @@ Python facts :
 
  ![ssss](https://user-images.githubusercontent.com/62019258/193426066-ff8b39b0-6852-4ad7-b10e-3179bb7f8acf.PNG)
 
-- value live Until no refrence:
+- Value live Until no refrence:
 
  ![a](https://user-images.githubusercontent.com/62019258/193426215-7a393cd2-c133-4948-a843-197bdb6a793c.PNG)
  
