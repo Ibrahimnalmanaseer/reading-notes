@@ -19,4 +19,4 @@
  
 - ## Code 401 - Advanced Software Development:
 
-  - [Class-01 : Intro to Python](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/Class-01.md)
+  - [Class-01 : Intro to Python](https://github.com/Ibrahimnalmanaseer/reading-notes/blob/main/401/Class-01.md)
