@@ -40,6 +40,10 @@ python interptor always read the sourse of file beofre excuted, and define speci
 
 - - - 
 
+### Recursion – Data Structure and Algorithm
 
+kind of function where called itself dircetly or indirectly,as the problems can be solved quite easily ,A recursive function solves a particular problem (The Factorial of a number)by calling a copy of itself and solving smaller subproblems of the original problems.
+
+the recursive functions uses LIFO (LAST IN FIRST OUT) structure , 
 
 
