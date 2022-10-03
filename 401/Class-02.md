@@ -27,7 +27,8 @@ Other thing to care about is the structure. A convention widely used is the AAA:
 
 ### What does the if __name__ == “__main__”: do ?
 
-python interptor always read the sourse of file beofre excuted, and define special variables and global variables, one of those varibales is __name__ having same value of __main__ variable incase excuted the code on the same file , if the file imported from another module ,the __name__ will be set to the module's name not the same value of __main__.
+python interptor always read the sourse of file beofre excuted, and define special variables and global variables, one of those varibales is`__name__` having `__main__` value incase excuted the code on the same file , if the file imported from another module ,the `__name__` will be set to the module's name not the same value of `__main__`.
+
 
 
 
