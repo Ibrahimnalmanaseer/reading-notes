@@ -29,6 +29,17 @@ Other thing to care about is the structure. A convention widely used is the AAA:
 
 python interptor always read the sourse of file beofre excuted, and define special variables and global variables, one of those varibales is`__name__` having `__main__` value incase excuted the code on the same file , if the file imported from another module ,the `__name__` will be set to the module's name not the same value of `__main__`.
 
+#### Advantages : 
+
+- Every Python module has it’s __name__ defined and if this is ‘__main__’, it implies that the module is being run standalone by the user and we can do corresponding appropriate actions.
+- If you import this script as a module in another script, the __name__ is set to the name of the script/module.
+- Python files can act as either reusable modules, or as standalone programs.
+- if __name__ == “main”: is used to execute some code only if the file was run directly, and not imported.
+
+
+
+- - - 
+
 
 
 
