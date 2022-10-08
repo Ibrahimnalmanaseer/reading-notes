@@ -97,5 +97,65 @@ with open('dog_breeds_reversed.txt', 'w') as writer:
     for breed in reversed(dog_breeds):
         writer.write(breed)
         
-    ``` 
+    
+ ``` 
+ 
+ - - -
+ 
+ ## Exceptions 
+ 
+ ### Exceptions versus Syntax Errors
+ 
+ Syntax errors occur when the parser detects an incorrect statement, the exceptions type of error occurs whenever syntactically correct Python code results in an error
+
+### Raising an Exception
+We can use ``` raise ``` to throw an exception if a condition occurs. The statement can be complemented with a custom exception.
+#### below ex :
+
+```
+x = 10
+if x > 5:
+    raise Exception('x should not exceed 5. The value of x was: {}'.format(x))
+    
+```
+
+ ### The try and except Block: Handling Exceptions
+ 
+ The ``` try ``` and ``` except ``` block in Python is used to catch and handle exceptions
+ 
+ #### ex :
+ 
+ ``` 
+ try:
+    linux_interaction()
+except AssertionError as error:
+    print(error)
+    print('The linux_interaction() function was not executed')
+    
+ ```
+ 
+ we can determine the error type and print it on screen .
+ #### ex:
+```
+ try:
+    with open('file.log') as file:
+        read_data = file.read()
+except FileNotFoundError as fnf_error:
+    print(fnf_error)
+    
+```
+ 
+### The else Clause
+we can use  ``` else ``` statement to excute the code if there no error after ``` try ``` statment , and incase of error the else statment will not be excuted .
+
+#### ex:
+```
+try:
+    linux_interaction()
+except AssertionError as error:
+    print(error)
+else:
+    print('Executing the else clause.')
+```
+
  
