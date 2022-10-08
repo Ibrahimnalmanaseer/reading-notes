@@ -81,7 +81,7 @@ Border Terrier
 ``` 
  
  
- #### Writing:
+#### Writing:
  
  ``` 
  
@@ -102,14 +102,15 @@ with open('dog_breeds_reversed.txt', 'w') as writer:
  
  - - -
  
- ## Exceptions 
+## Exceptions 
  
- ### Exceptions versus Syntax Errors
+### Exceptions versus Syntax Errors
  
  Syntax errors occur when the parser detects an incorrect statement, the exceptions type of error occurs whenever syntactically correct Python code results in an error
 
 ### Raising an Exception
 We can use ``` raise ``` to throw an exception if a condition occurs. The statement can be complemented with a custom exception.
+
 #### below ex :
 
 ```
@@ -119,11 +120,12 @@ if x > 5:
     
 ```
 
- ### The try and except Block: Handling Exceptions
+### The try and except Block: Handling Exceptions
  
  The ``` try ``` and ``` except ``` block in Python is used to catch and handle exceptions
  
- #### ex :
+ 
+#### ex :
  
  ``` 
  try:
@@ -135,7 +137,7 @@ except AssertionError as error:
  ```
  
  we can determine the error type and print it on screen.
- #### ex:
+#### ex:
 ```
  try:
     with open('file.log') as file:
