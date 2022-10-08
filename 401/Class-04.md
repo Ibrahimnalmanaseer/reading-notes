@@ -41,7 +41,7 @@ with open('dog_breeds.txt') as reader:
  ```
  
  
- ### files type:
+### files type:
  There are three different categories of file objects:
  - Text files : ``` open('abc.txt', 'r') ```
  - Buffered binary files: ```open('abc.txt', 'rb') ```
