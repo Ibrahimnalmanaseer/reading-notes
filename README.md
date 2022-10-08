@@ -22,3 +22,4 @@
   - [Class-01 : Intro to Python](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-01)
   - [Class-02 : Testing and Modules](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-02)
   - [Class-03 : Whiteboarding + Big O](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-03)
+  - [Class-04 : FileIO & Exceptions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-04)
