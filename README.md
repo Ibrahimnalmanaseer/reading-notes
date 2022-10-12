@@ -24,3 +24,4 @@
   - [Class-03 : Whiteboarding + Big O](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-03)
   - [Class-04 : FileIO & Exceptions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-04)
   - [Class-05 : Intro to OOP](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-05)
+  - [Class-06 : OOP](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-06)
