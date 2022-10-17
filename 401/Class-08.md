@@ -8,7 +8,8 @@ A data structure is a specialized format for organizing, processing, retrieving 
 
 - What kind of information will be stored?
 - How will that information be used?
-- Where should data persist, or be kept, after it is created?
+- Where should data persist, or be kept, after it is created?![linked_list_insertion_2](https://user-images.githubusercontent.com/62019258/196277755-06248c96-5563-4c10-abfd-f0d1326af572.jpg)
+
 - What is the best way to organize the data?
 - What aspects of memory and storage reservation management should be considered?
 
@@ -67,3 +68,39 @@ Linked List is a sequence of links which contains items. Each link contains a co
 - **LinkedList**: A Linked List contains the connection link to the first link called First.
 
 ![linked_list](https://user-images.githubusercontent.com/62019258/196276281-397a1106-66b8-49e6-9786-7037ea7a15fc.jpg)
+
+### Basic Operations
+
+- **Insertion Operation**:
+
+
+![linked_list_insertion_0](https://user-images.githubusercontent.com/62019258/196277218-c546325c-2ff3-4a09-ae6d-b7fbc04962b2.jpg)
+
+
+``` NewNode.next −> RightNode; ```
+
+![linked_list_insertion_1](https://user-images.githubusercontent.com/62019258/196277358-15ee38f8-a648-4e1a-8e91-2b30a886c031.jpg)
+
+``` LeftNode.next −> NewNode; ```
+
+
+![linked_list_insertion_3](https://user-images.githubusercontent.com/62019258/196277785-7aaece93-d761-4229-97c4-5109e306a50e.jpg)
+
+
+
+- **Deletion Operation**:
+
+``` LeftNode.next −> TargetNode.next; ```
+
+![linked_list_deletion_1](https://user-images.githubusercontent.com/62019258/196277955-0de8a9dc-2312-47e8-8db1-427b2fa2a184.jpg)
+
+
+``` TargetNode.next −> NULL; ```
+
+![linked_list_deletion_2](https://user-images.githubusercontent.com/62019258/196278020-7a8c2002-9c71-43ca-87bd-89b807237eee.jpg)
+
+
+
+![linked_list_deletion_3](https://user-images.githubusercontent.com/62019258/196278247-2c49c406-7b8e-4595-b8c0-f80abaf05237.jpg)
+
+
