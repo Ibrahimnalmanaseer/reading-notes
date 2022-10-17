@@ -30,6 +30,7 @@ Data structures are often classified by their characteristics :
 - **Static or dynamic.** This characteristic describes how the data structures are compiled. Static data structures have fixed sizes, structures and memory locations at compile time. Dynamic data structures have sizes, structures and memory locations that can shrink or expand, depending on the use.
 
 
+
 #### Data types :
 
 - **Boolean**
@@ -47,3 +48,22 @@ Data structures are often classified by their characteristics :
 - **Stack.**
 - **Queue**
 - **Linked list:** A linked list stores a collection of items in a linear order. Each element, or node, in a linked list contains a data item, as well as a reference, or link, to the next item in the list.
+- **Tree**
+- **Heap**
+- **Graph.**
+- **Trie.**
+- **Hash table.**
+
+- - - -
+
+## Data Structure and Algorithms - Linked List
+
+Linked List is a sequence of links which contains items. Each link contains a connection to another link.
+
+- **Link**: Each link of a linked list can store a data called an element.
+
+- **Next**: Each link of a linked list contains a link to the next link called Next.
+
+- **LinkedList**: A Linked List contains the connection link to the first link called First.
+
+![linked_list](https://user-images.githubusercontent.com/62019258/196276281-397a1106-66b8-49e6-9786-7037ea7a15fc.jpg)
