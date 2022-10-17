@@ -41,4 +41,9 @@ Data structures are often classified by their characteristics :
 - **String**
 
 
+#### Types of data structures :
 
+- **Array.**
+- **Stack.**
+- **Queue**
+- **Linked list:** A linked list stores a collection of items in a linear order. Each element, or node, in a linked list contains a data item, as well as a reference, or link, to the next item in the list.
