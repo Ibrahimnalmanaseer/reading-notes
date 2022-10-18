@@ -27,3 +27,4 @@
   - [Class-06 : OOP](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-06)
   - [Class-07 : Data Analysis](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-07)
   - [Class-08 : Linked List](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-08)
+  - [Class-09 : Data Analysis with Pandas](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-09)
