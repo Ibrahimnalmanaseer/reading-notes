@@ -32,3 +32,10 @@ plt.plot(X, S, color="red",  linewidth=2.5, linestyle="-")
 - **Axes**: are very similar to subplots but allow placement of plots at any location in the figure. So if we want to put a smaller plot inside a bigger one we do so with axes.
 
 - **Ticks** Well formatted ticks are an important part of publishing-ready figures. Matplotlib provides a totally configurable system for ticks. There are tick locators to specify where ticks should appear and tick formatters to give ticks the appearance you want. Major and minor ticks can be located and formatted independently from each other. 
+
+![3](https://user-images.githubusercontent.com/62019258/197655946-3a139b10-9ffd-432c-a06c-e4b61b9a897b.PNG)
+
+
+
+
+
