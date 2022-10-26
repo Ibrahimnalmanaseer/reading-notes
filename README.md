@@ -30,3 +30,4 @@
   - [Class-09 : Data Analysis with Pandas](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-09)
   - [Class-10 : Linear Regressions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-10)
   - [Class-11 : Data Visualization](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-11)
+  - [Class-12 : Stack and Queue](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-12)
