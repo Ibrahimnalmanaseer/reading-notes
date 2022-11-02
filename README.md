@@ -33,3 +33,4 @@
   - [Class-12 : Stack and Queue](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-12)
   - [Class-13 : Serverless Functions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-13)
   - [Class-14 : Web Scraping](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-14)
+  - [Class-15 : Tree Data Structure](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-15)
