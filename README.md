@@ -38,4 +38,5 @@
   - [Class-19 : Django](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-19)
   - [Class-20 : Django Models](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-20)
   - [Class-22 : Django CRUD and Forms](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-22)
+  - [Class-23 : Django Custom User](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-23)
   
