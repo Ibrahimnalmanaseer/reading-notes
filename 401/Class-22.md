@@ -69,7 +69,7 @@ def home_view(request):
 ```
 
 <form action = "" method = "post">
-	{% csrf_token %}
+	
 	{{form }}
 	<input type="submit" value=Submit">
 </form>
