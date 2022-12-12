@@ -41,4 +41,5 @@
   - [Class-23 : Django Custom User](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-23)
   - [Class-24 : Hash Tables](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-24)
   - [Class-25 : Django REST Framework & Docker](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-25)
+  - [Class-26 : Django Permissions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-26)
   
