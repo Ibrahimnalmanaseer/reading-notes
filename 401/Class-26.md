@@ -18,3 +18,24 @@ we need to explicitly call the `.check_object_permissions(request, obj)` method 
 
 This will either raise a `PermissionDenied` or `NotAuthenticated` exception, or simply return if the view has the appropriate permissions.
 
+**EX**
+
+```
+def get_object(self):
+    obj = get_object_or_404(self.get_queryset(), pk=self.kwargs["pk"])
+    self.check_object_permissions(self.request, obj)
+    return obj
+```
+
+## Setting the permission policy
+
+The default permission policy may be set globally, using the `DEFAULT_PERMISSION_CLASSES` setting.
+**For example.
+
+```
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.IsAuthenticated',
+    ]
+}
+```
