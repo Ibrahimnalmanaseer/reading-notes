@@ -43,4 +43,4 @@
   - [Class-25 : Django REST Framework & Docker](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-25)
   - [Class-26 : Django Permissions](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-26)
   - [Class-27 : Graphs](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-27)
-  
+  - [Class-28 : Authentication & Production Server](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-28)
