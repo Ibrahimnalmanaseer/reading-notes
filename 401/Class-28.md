@@ -39,5 +39,7 @@ The following diagram shows how a JWT is obtained and used to access APIs or res
 
 ![client-credentials-grant](https://user-images.githubusercontent.com/62019258/208265046-559b802f-0068-44f6-a083-25455cea86ff.png)
 
-
+- The application or client requests authorization to the authorization server. This is performed through one of the different authorization flows.
+- When the authorization is granted, the authorization server returns an access token to the application.
+- The application uses the access token to access a protected resource (like an API).
   
