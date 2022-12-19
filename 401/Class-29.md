@@ -82,5 +82,6 @@ To specify for a project you run which Django configuration to use, you need to 
 SSH, or Secure Shell Protocol, is a remote administration protocol that allows users to access, control, and modify their remote servers over the internet.
 
 
-
+## Why Is SSH Used?
+Secure Shell (SSH for short) is a network communication protocol that makes it possible for two computers to communicate with one another. SSH also makes data transfers possible between two computers.
 
