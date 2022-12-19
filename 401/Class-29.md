@@ -36,7 +36,7 @@ DATABASES = {
 from .settings_local import *
 ```
 
-settings_local.py file:
+- **settings_local.py file**
 
 ```
 
@@ -52,5 +52,32 @@ DATABASES = {
     }
 }
 ```
+
+## Separate settings file for each environment
+
+
+
+```
+settings/
+   ├── __init__.py
+   ├── base.py
+   ├── ci.py
+   ├── local.py
+   ├── staging.py
+   ├── production.py
+   └── qa.py
+```
+
+
+To specify for a project you run which Django configuration to use, you need to set an additional parameter:
+
+`python manage.py runserver --settings=settings.local`
+
+---
+
+# What Is SSH: Understanding Encryption, Ports and Connection
+
+
+
 
 
