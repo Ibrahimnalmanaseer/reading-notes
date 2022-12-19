@@ -78,6 +78,9 @@ To specify for a project you run which Django configuration to use, you need to 
 # What Is SSH: Understanding Encryption, Ports and Connection
 
 
+## What Is SSH?
+SSH, or Secure Shell Protocol, is a remote administration protocol that allows users to access, control, and modify their remote servers over the internet.
+
 
 
 
