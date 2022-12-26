@@ -45,4 +45,6 @@
   - [Class-27 : Graphs](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-27)
   - [Class-28 : Authentication & Production Server](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-28)
   - [Class-29 : API Deployment](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-29)
+  - [Class-30 : Component-Based Architecture](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-30)
+
 
