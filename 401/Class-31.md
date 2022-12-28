@@ -42,3 +42,41 @@ In the example above, we’ve used:
 - **Your CSS stops growing.** Using a traditional approach, your CSS files get bigger every time you add a new feature. With utilities, everything is reusable so you rarely need to write new CSS.
 - **Making changes feels safer.** CSS is global and you never know what you’re breaking when you make a change. Classes in your HTML are local, so you can change them without worrying about something else breaking.
 
+
+----
+
+## Next.js
+
+### what is Next.js
+
+Next.js is a flexible React framework that gives you building blocks to create fast web applications, like (User Interface,Routing ,Data Fetching).
+handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application.
+
+
+### Getting Started with Next.js
+
+- run on terminal, run `npm install react react-dom next`.
+- run `npm run dev` inside  terminal
+
+#### Create a Next.js App
+
+ - open  terminal, cd into the directory and run the following command:
+ 
+ `npx create-next-app@latest nextjs-blog`
+ 
+ - `cd nextjs-blog` ,Then run the following command: `npm run dev`
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
