@@ -42,5 +42,11 @@ The purpose of our useFriendStatus Hook is to subscribe us to a friend’s statu
 ## Using a Custom Hook
 
 
+Custom Hooks are a convention that naturally follows from the design of Hooks, rather than a React feature.
+
+Custom Hooks are a mechanism to reuse stateful logic (such as setting up a subscription and remembering the current value), but every time you use a custom Hook, all state and effects inside of it are fully isolated.
+
+
+
 
 
