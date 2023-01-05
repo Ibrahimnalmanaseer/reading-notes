@@ -27,3 +27,18 @@ pass down a `callback` function for a higher-level component to know the state.a
 ## State traveling sideways
 
 Various sub-components need to communicate updates between them. This can be achieved by passing state, using callback, up to a common parent component, and then passing it back down.
+
+
+## Context
+
+
+Context provides a way to pass data through the component tree without having to pass props down manually at every level.
+.
+
+### When to Use Context
+
+Context is designed to share data that can be considered “global” for a tree of React components, such as the current authenticated user, theme, or preferred language.
+
+
+ 
+ 
