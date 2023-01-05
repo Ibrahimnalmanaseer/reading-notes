@@ -19,3 +19,11 @@ As a result, the `state` tracked by the lower-level component will persist unles
 
 
 
+## State traveling up
+
+pass down a `callback` function for a higher-level component to know the state.add a global `state` to count the total number of button presses and update this state with a callback function called `pushed`, which is called whenever a button is pushed.
+
+
+## State traveling sideways
+
+Various sub-components need to communicate updates between them. This can be achieved by passing state, using callback, up to a common parent component, and then passing it back down.
