@@ -47,6 +47,6 @@
   - [Class-29 : API Deployment](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-29)
   - [Class-30 : Component-Based Architecture](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-30)
   - [Class-31 : Intro to Next.js & Tailwind CSS](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-31)
-  - [Class-33 : Context](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-33)
+  - [Class-33 : Context](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-34)
 
 
