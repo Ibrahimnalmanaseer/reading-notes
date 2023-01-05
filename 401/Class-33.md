@@ -32,4 +32,15 @@ function useFriendStatus(friendID) {
 ```
 
 
+it’s just like a normal function. Its name should always start with use so that you can tell at a glance that the rules of Hooks apply to it.
+
+
+The purpose of our useFriendStatus Hook is to subscribe us to a friend’s status. This is why it takes friendID as an argument, and returns whether this friend is online
+
+
+
+## Using a Custom Hook
+
+
+
 
