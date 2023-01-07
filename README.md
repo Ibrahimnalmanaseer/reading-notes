@@ -49,5 +49,5 @@
   - [Class-31 : Intro to Next.js & Tailwind CSS](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-31)
   - [Class-32 : Next- Forms and Conditional Rendering ](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-33)
   - [Class-33 : Context](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-34)
-
+  - [Class-35 : Context](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-35)
 
