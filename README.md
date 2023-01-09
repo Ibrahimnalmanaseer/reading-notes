@@ -50,4 +50,5 @@
   - [Class-32 : Next- Forms and Conditional Rendering ](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-33)
   - [Class-33 : Context](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-34)
   - [Class-35 : Authentication](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-35)
+  - [Class-36 : Data Fetching](https://ibrahimnalmanaseer.github.io/reading-notes/401/Class-36)
 
